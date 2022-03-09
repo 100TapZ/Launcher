@@ -6,7 +6,7 @@
             "minecraftVersion": "1.7.10",
             "type": "release",
             "customVersion": {
-                "version": [
+                "versions": [
                     "https://www.dropbox.com/s/w1lh2vbb3qrv9ih/IconicClient.zip?dl=1"
                 ]
             },
